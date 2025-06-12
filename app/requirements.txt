@@ -1,0 +1,7 @@
+streamlit
+langchain
+llama-index
+openai
+chromadb
+python-dotenv
+pymupdf
